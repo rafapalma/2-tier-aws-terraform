@@ -1,0 +1,1 @@
+Copy your private and public key in this folder.
